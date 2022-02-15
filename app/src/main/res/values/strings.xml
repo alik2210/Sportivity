@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Sportivity</string>
+    <string name="logo_name">Get A Field</string>
+    <string name="slogan_name">We will help you to find your ground</string>
+    <string name="powered_by">Powered by Alik Sarkar</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by following simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you do not have to worry about anything.  </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <!--Categories-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurents">Restaurants</string>
+    <!--Titles and Descriptions-->
+    <string name="featured_locations">All featured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_location">Most Viewed</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search…</string>
+
+    <!--general strings-->
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow \n Your Business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services!</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="otp_code_text">Co\de</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+
+    <string name="macd_is_really_gud_place_to_eat_i_always_love_to_eat_at_macs">macd is really gud place to eat i always love to eat at macs</string>
+    <string name="mcdonald_s">McDonald\'s</string>
+    <string name="all_categories">All categories</string>
+    <string name="add_missing_place">Add missing place</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+
+    <string name="education">Education</string>
+    <string name="categories">Categories</string>
+    <string name="car_rent">Car Rent</string>
+    <string name="shops">Shops</string>
+
+    <string name="expand_all">Expand All</string>
+
+    <string name="hospitals">Hospitals</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="verify_code">Verify code</string>
+    <string name="enter_one_time_password_sent_on_your_phone">Enter one time password sent on your Phone</string>
+    <string name="verification">Verification</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="a_football_pitch_also_known_as_a_football_field_or_soccer_field_1_is_the_playing_surface_for_the_game_of_association_football_its_dimensions_and_markings_are_defined_by_law_1_of_the_laws_of_the_game">A football pitch (also known as a football field or soccer field) [1] is the playing surface for the game of association football. Its dimensions and markings are defined by Law 1 of the Laws of the Game,</string>
+    <string name="footballstud">A football pitch (also known as a football field or soccer field) [1] is the playing surface for the game of association football. Its dimensions and markings are defined by Law 1 of the Laws of the Game, .[2] The pitch is typically made of natural turf or artificial turf, although amateur and recreational teams often play on dirt fields. Artificial surfaces must be green in colour. All line markings on the pitch form part of the area which they define. For example, a ball on or above the touchline is still on the field of play, and a foul committed over the line bounding the penalty area results in a penalty. Therefore, a ball must completely cross the touchline to be out of play, and a ball must wholly cross the goal line (between the goal posts) before a goal is scored; if any part of the ball is still on or above the line, the ball is still in play.</string>
+
+
+</resources>

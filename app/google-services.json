@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391043144338",
+    "project_id": "sportivity-dac6b",
+    "storage_bucket": "sportivity-dac6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391043144338:android:e559331e9dadb120dba44b",
+        "android_client_info": {
+          "package_name": "com.example.sportivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391043144338-7lbj40bl5fj6fqbbv05ssm1ini1qfkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWIzstXpl-EfboYK-GqaOkVHJ7VA8GFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391043144338-7lbj40bl5fj6fqbbv05ssm1ini1qfkjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
